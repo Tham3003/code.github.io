@@ -1,2 +1,3 @@
 # code.github.io
-$ git add .C:\App_DocTruyenTranh
+$ git clone https://github.com/Tham3003/code.github.io.git
+$ git add . https://github.com/Tham3003/code.github.io.git
